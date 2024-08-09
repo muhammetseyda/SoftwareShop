@@ -1,0 +1,20 @@
+Buraya yapýlacaklarý yazacaðýz, birbirimize notlar býrakacaðýz
+
+-- Discount, Catalog ve ORder servisleri projeleri baþladým, içleri doldurulacak
+
+-- Identity server ekleyeceðim
+
+--Ödeme üzerine çalýþmam gerekiyor
+
+---- Kurulan paketler 8.0.6 olanlar kurulacak
+
+---- Kurulacak paketler
+
+-- Microsoft.EntityFrameworkCore
+-- Microsoft.EntityFrameworkCore.Design
+-- Microsoft.EntityFrameworkCore.SqlServer
+-- Microsoft.EntityFrameworkCore.Tools
+
+--Discount için ilk önce tepository sonra servisleri yazdým
+--Repositoryde CRUD iþlemlerini yaptým
+

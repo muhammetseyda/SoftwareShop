@@ -1,0 +1,6 @@
+@SoftwareShop.Ordering_HostAddress = http://localhost:5239
+
+GET {{SoftwareShop.Ordering_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
