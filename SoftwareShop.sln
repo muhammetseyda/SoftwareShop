@@ -13,16 +13,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{56
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ordering", "Ordering", "{D7A41627-D11D-493E-83ED-B566B3277C74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareShop.Discount", "Services\Discount\SoftwareShop.Discount\SoftwareShop.Discount.csproj", "{48D6614D-2958-4EE9-9D30-CC21ADBB4921}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftwareShop.Discount", "Services\Discount\SoftwareShop.Discount\SoftwareShop.Discount.csproj", "{48D6614D-2958-4EE9-9D30-CC21ADBB4921}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareShop.Ordering", "Services\Ordering\SoftwareShop.Ordering\SoftwareShop.Ordering.csproj", "{8473BDA3-DDC4-44C5-A920-2348FAD6DC31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftwareShop.Ordering", "Services\Ordering\SoftwareShop.Ordering\SoftwareShop.Ordering.csproj", "{8473BDA3-DDC4-44C5-A920-2348FAD6DC31}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirements", "Requirements", "{2134A1BA-AE1C-41E6-A975-A8E51B0041FC}"
 	ProjectSection(SolutionItems) = preProject
 		Issues.txt = Issues.txt
 	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{A1535AAA-5EC6-460D-B88C-6DDD506A4D8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,7 +51,6 @@ Global
 		{D7A41627-D11D-493E-83ED-B566B3277C74} = {780A4145-F0DA-4893-BC90-91AE40B86E5D}
 		{48D6614D-2958-4EE9-9D30-CC21ADBB4921} = {56D3D871-037F-4E5D-818D-562511013845}
 		{8473BDA3-DDC4-44C5-A920-2348FAD6DC31} = {D7A41627-D11D-493E-83ED-B566B3277C74}
-		{A1535AAA-5EC6-460D-B88C-6DDD506A4D8D} = {780A4145-F0DA-4893-BC90-91AE40B86E5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9D78DF6D-AF78-42F5-945D-66E0CE2C53F0}
