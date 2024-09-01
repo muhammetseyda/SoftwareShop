@@ -1,0 +1,6 @@
+@SoftwareShop.Comment_HostAddress = http://localhost:5022
+
+GET {{SoftwareShop.Comment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
